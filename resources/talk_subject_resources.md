@@ -6,6 +6,12 @@
 
 - **Heart of Mathematics** by Burger and Starbird, ISBN-13: 978-1931914413.
 
+- **Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra** by Jiri Matousek, ISBN-13: 978-0821849774
+
+- Electronic Journal of Linear Algebra: http://www.math.technion.ac.il/iic/ela/Home.html
+
+- Electronic Journal of Combinatorics: http://www.combinatorics.org/
+
 - We Use Math [website](http://weusemath.org/).  Section on "Math Tidbits" may have some topics appropriate for a short talk.
 
 - I am currently soliciting pointers from our mathematics professors; Dr. Wolff used a number of statistics and modeling textbooks the last time she taught 395 that might be interesting.
