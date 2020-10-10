@@ -11,7 +11,7 @@ This activity accomplishes three goals:
 ## Specification of the Video
 
 0. Audience: class mates and your professor.  Before you engage in *any* oral communication, your first task should be to clearly identify your audience.
-1. Videos should be no longer than a couple minutes long.
+1. Videos should be about a couple minutes long.
 2. Content is up to you, but things to think about including:
      - The "stats" of your bio, like who you are, what you like to be called, your class year, your major(s) and minor(s).
      - How you are handling this semester ... if remote, where you at and what affects your college experience, if on-campus, where you are living and how you are keeping yourself safe.
