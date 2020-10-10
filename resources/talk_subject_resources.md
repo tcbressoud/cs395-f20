@@ -14,7 +14,9 @@
 
 - We Use Math [website](http://weusemath.org/).  Section on "Math Tidbits" may have some topics appropriate for a short talk.
 
-- I am currently soliciting pointers from our mathematics professors; Dr. Wolff used a number of statistics and modeling textbooks the last time she taught 395 that might be interesting.
+- Dr. Wolff Suggestion
+    - **Applied Linear Algebra** by Olver and Shakiban: https://link.springer.com/book/10.1007/978-3-319-91041-3
+    - she says it is downloadable for free on eduroam
 
 - Possible Talk on specific proof
     - Rolle's Theorem
@@ -43,7 +45,25 @@
 
 - Any ACM **Journal** (not Communications of the ACM or other trade-magazine). ... ACM Transactions on Computing Systems is my own favorite, but any of them are high quality research.  Also can be searched in the ACM Digital Library.
 
-- I am currently soliciting pointers from our more algorithm- and theory-centric professors.
+- Topic List From Dr. Lall
+    - Computational geometry (convex hulls, intersection of line segments, etc.)
+    - String matching (Rabin-Karp, Knuth-Morris-Pratt)
+    - Sorting networks
+    - Communication complexity
+    - Bloom filters and its variants
+    - Streaming algorithms for frequency moments
+    - Streaming algorithms to compute distinct elements
+    - Algorithmic game theory
+    - Random projections (maximum cut)
+    - Fast Fourier Transforms
+    - Linear programming and simplex
+    - Algorithms for cryptocurrencies (Bitcoin)
+    - Primality testing, integer factorization
+    - Approximation algorithms (vertex-cover, traveling salesman, set-cover, subset sum)
+    - Randomized data structures (skip lists, hash tables)
+
+- Additional Book Suggestion from Dr. Kell
+    - **Algorithm Design** by Kleinberg and Tardos, ISBN-13: 978-0321295354
 
 ## Crossover
 
